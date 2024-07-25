@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93f993b86dcc02c4a9c0c68c68d94ec5, type: 3}
+  m_Name: Planks
+  m_EditorClassIdentifier: 
+  Type: 2
+  itemName: planks
+  itemImage: {fileID: -1200941058, guid: f5f4737f587f6db40bba798d3dd3a45b, type: 3}
+  itemPrefab: {fileID: 7275791435243442460, guid: 6d8c812aea240a2409db6b42e41d292a, type: 3}
+  itemcode: 7
+  itemweight: 1
+  itemmoney: 1
+  itemexplanation: "\uC794\uAC00\uC9C0"
+  isHand: 0
+  itemgrade: 1
+  itemdamage: 0
+  equiptype: 4
